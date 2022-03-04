@@ -14,12 +14,13 @@ GEM
 PLATFORMS
   universal-darwin-20
   universal-darwin-21
+  x86_64-linux
 
 DEPENDENCIES
   pry
-  rack (~> 2.2)
+  rack
   rack-test (~> 1.1)
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.30
+   2.3.7
